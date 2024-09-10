@@ -13,7 +13,3 @@ Este proyecto es una Calculadora construida con la librería `Tkinter` de Python
 ## Requisitos
 
 Este proyecto solo necesita Python 3.x y la biblioteca `Tkinter` que viene incluida con las distribuciones estándar de Python. Además, se utiliza la función `gcd` de la librería estándar `math` para calcular el **MCD**.
-
-## Cómo usar
-
-python calculadora.py
